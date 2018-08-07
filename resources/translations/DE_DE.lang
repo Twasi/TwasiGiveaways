@@ -1,0 +1,7 @@
+merlinw.giveaway.helptext=!giveaway start <Gewinn> <Wort zum Beitreten>
+merlinw.giveaway.stop=%s hat das Giveaway gewonnen! PogChamp Herzlichen Glückwunsch KAPOW
+merlinw.giveaway.start=Es wurde ein neues Giveaway gestartet. PogChamp Zu gewinnen gibt es: %s. Schreib %s in den Chat um teilzunehmen! MingLee
+merlinw.giveaway.abort=Das aktuelle Giveaway wurde abgebrochen. cmonBruh
+merlinw.giveaway.noparticipant=Das aktuelle Giveaway wurde gestoppt, aber niemand hat teilgenommen. BibleThump
+merlinw.giveaway.operate.alreadystarted=Es läuft aktuell ein Gewinnspiel. Du musst es zuerst beenden (!ga stop) oder abbrechen (!ga abort). DansGame
+merlinw.giveaway.operate.notstarted=Aktuell läuft kein Giveaway. DansGame

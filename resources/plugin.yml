@@ -1,0 +1,15 @@
+name: Giveaways
+main: de.merlinw.twasi.giveaways.Main
+author: DieserMerlin
+description: Start a raffle in your channel's chat easily!
+helpText: See how to use with !giveaway or !ga
+version: 1.0
+
+messageHandler: true
+
+commands:
+- giveaway
+
+permissions:
+- merlinw.giveaways.operate
+- merlinw.giveaways.participate

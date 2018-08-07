@@ -1,0 +1,7 @@
+merlinw.giveaway.helptext=!giveaway start <Prize> <Word to enter>
+merlinw.giveaway.stop=%s has won the raffle! PogChamp Congratulations KAPOW
+merlinw.giveaway.start=A new raffle was started. PogChamp You can win: %s. Write %s in the chat to join! MingLee
+merlinw.giveaway.abort=The raffle was aborted. cmonBruh
+merlinw.giveaway.noparticipant=The current raffle was stopped but nobody entered. BibleThump
+merlinw.giveaway.operate.alreadystarted=You can not start a raffle while another one is running. You have to stop (!ga stop) or abort ist (!ga abort). DansGame
+merlinw.giveaway.operate.notstarted=You can not close a raffle that isn't even started. DansGame
